@@ -1,7 +1,6 @@
 ### hey there 
 
-
-I am an experienced C++/Qt/QML with a strong background programming,as well as expertise in Visual Studio, Qt, S and related tools. Skilled in developing and maintaining high-quality mobile applications that meet user needs and business goals, with a focus on performance, usability, and security. Proven ability to work collaboratively in cross-functional teams and to deliver projects on time and within budget. Passionate about staying up-to-date with the latest trends and best practices in Android development and continuously improving skills.
+My name is Mahdi Hasanzade, and I am a talented software developer with expertise in C++, Qt, QML, and both SQL Server and SQLite databases. I have a strong passion for creating efficient and user-friendly applications using these technologies. With extensive experience in C++ programming, I possess a deep understanding of object-oriented principles and software design patterns. I am proficient in Qt and have leveraged its capabilities to develop cross-platform applications with appealing user interfaces. Moreover, my knowledge of both SQL Server and SQLite allows me to design and optimize databases effectively. I am dedicated to continuously expanding my skills and staying up-to-date with the latest advancements in the software development field. I am committed to delivering high-quality solutions that meet the needs of users and contribute to the success of businesses.
 
 
 <!-- <a href="https://twitter.com/M_Azadbar">
